@@ -1,3 +1,4 @@
+👋 <b>Hi</b>, I'm <b>Abhishek Bukatare.</b>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekbukatare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekbuktare35@gmail.com) 
 
@@ -17,4 +18,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me:
-👋 Hi, I'm Abhishek Bukatare<br>I'm a Computer Engineering student with a growing passion for web development and building practical tools that solve real-world problems. Currently, I'm exploring the fundamentals of HTML, CSS, JavaScript, and diving into frameworks like React and Node.js.<br><br>💻 What I’m Working On<br><br>Learning full-stack web development<br><br>🧠 What I’m Learning<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend: Node.js, Express<br><br>Tools: Git, GitHub, VS Code, Postman<br><br>🚀 Goals<br><br>Become a full-stack developer<br><br>Contribute to open-source projects<br><br>Build a portfolio of meaningful web apps
+👋 Hi, I'm Abhishek Bukatare<br>I'm a Computer Engineering student with a growing passion for web development and building practical tools that solve real-world problems. Currently, I'm exploring the fundamentals of HTML, CSS, JavaScript, and diving into frameworks like React and Node.js.<br><br>💻 What I’m Working On<br><br>Learning full-stack web development<br><br><hr />🧠 What I’m Learning<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend: Node.js, Express<br><br>Tools: Git, GitHub, VS Code, Postman<br><br><hr />🚀 Goals<br><br>Become a full-stack developer<br><br>Contribute to open-source projects<br><br>Build a portfolio of meaningful web apps
